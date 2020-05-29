@@ -1,7 +1,14 @@
-# AdversarialNetsPapers
-[The classic about Generative Adversarial Networks](https://github.com/CosmosHua/AdversarialNetsPapers)
+# Adversarial Net Papers
+[The classic Generative Adversarial Networks](https://github.com/zhangqianhui/AdversarialNetsPapers)
+
+# 2D Object Detection Papers
+[Deep Learning 2D Object Detection](https://github.com/hoya012/deep_learning_object_detection)
+
+# 2D Semantic Segmentation Papers
+[Awesome-Semantic-Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
 
 ---
+# Older Papers
 ```
 1701.07274：DEEP REINFORCEMENT LEARNING: AN OVERVIEW
 1604.07379/cvpr2016：Context Encoders: Feature Learning by Inpainting
